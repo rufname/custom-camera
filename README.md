@@ -1,4 +1,4 @@
-# custom-camera
+# Custom Camera Settings
 Learn, share and discuss customer camera settings.
 
 ## Camera manufacturers:
